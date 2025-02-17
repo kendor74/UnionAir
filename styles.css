@@ -802,6 +802,7 @@ footer {
     max-width: 1200px;
     margin: auto;
     align-items: center;
+    margin-left: 50px;
   }
   
   .footer-hotline {
